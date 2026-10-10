@@ -10,9 +10,3 @@ The current app surface includes:
 -The repository is intended to present projects, certifications, and contact details in a production-oriented format rather than as a generic starter template.
 
 ## Stack
-Next.js 15 App Router
-React 19
-TypeScript strict mode
-Tailwind CSS
-Framer Motion
-Recharts
